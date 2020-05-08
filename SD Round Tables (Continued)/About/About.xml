@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[SD] Round Tables (Continued)</name>
+	<author>sulusdacor</author>
+	<!-- <targetVersion>1.0.2059</targetVersion> -->
+	<!-- <url>https://ludeon.com/forums/index.php?topic=26276.0</url> -->
+	<description>Update of [SD] Round Tables for Rimworld 1.1
+
+	[img]https://i.imgur.com/GYswkZ7.png[/img]
+	
+	download link: https://github.com/ShadowKGames/RW_SDRoundTablesContinued
+	
+	--- Original Description ---
+	
+	tired of living on the edge? want things to go round? this will (most definitly not) be the solution^^
+	
+	adds three round tables to the game in different sizes (1x1,2x2,3x3). dont need research to be build.
+	
+	stats from the middle and big one are same as the vanilla tables (short/long). small round table has slightly reduced stats compared to the short vanilla tables.
+	
+	Download links for Dropbox (current or older versions) or Steamworkshop link for current Rimworld version can be found in the ludeon forum thread linked above.
+	
+	additional languages:
+	- spanish by CANALETA
+	- spanish latin by CANALETA
+	- german by sulusdacor
+	</description>
+	<supportedVersions>
+       <li>1.1</li> 
+    </supportedVersions>
+	<packageId>shadowk.sdroundtables</packageId>
+</ModMetaData>
