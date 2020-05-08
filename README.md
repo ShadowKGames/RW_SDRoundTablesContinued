@@ -3,6 +3,8 @@ Update of [SD] Round Tables Mod to Rimworld 1.1
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
 	
+download link: https://github.com/ShadowKGames/RW_SDRoundTablesContinued
+	
 --- Original Description ---
 	
 tired of living on the edge? want things to go round? this will (most definitly not) be the solution^^
