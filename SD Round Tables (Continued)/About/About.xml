@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-<name>[SD] Round Tables (Continued)</name>
-<author>sulusdacor</author>
+	<name>[SD] Round Tables (Continued)</name>
+	<author>sulusdacor, shadowk</author>
 	<!-- <targetVersion>1.0.2059</targetVersion> -->
 	<!-- <url>https://ludeon.com/forums/index.php?topic=26276.0</url> -->
-<description>Update of [SD] Round Tables for Rimworld 1.1
+	<description>Update of [SD] Round Tables for Rimworld 1.1
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
 	
@@ -24,7 +24,7 @@ additional languages:
 - spanish by CANALETA
 - spanish latin by CANALETA
 - german by sulusdacor
-</description>
+	</description>
 	<supportedVersions>
        <li>1.1</li> 
     </supportedVersions>
