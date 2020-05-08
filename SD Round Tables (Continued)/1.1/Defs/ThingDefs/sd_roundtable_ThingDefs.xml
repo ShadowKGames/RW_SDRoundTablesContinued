@@ -5,7 +5,7 @@
 
  <ThingDef ParentName="TableBase_SDRoundTable">
 	<defName>sd_roundtable_small</defName>
-    <label>table small(round)</label>    
+    <label>table (1x1)</label>    
 	<graphicData>
 		<texPath>sd_roundtable/sd_roundtable_small</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -22,7 +22,7 @@
       <MaxHitPoints>75</MaxHitPoints>
       <WorkToBuild>1000</WorkToBuild>
       <Flammability>1.0</Flammability>
-      <Beauty>4</Beauty>
+      <Beauty>0.5</Beauty>
 	  <Mass>5</Mass>
     </statBases>    
     <costStuffCount>30</costStuffCount>
@@ -31,7 +31,7 @@
  
 <ThingDef ParentName="TableBase_SDRoundTable">
 	<defName>sd_roundtable</defName>
-    <label>table (round)</label>    
+    <label>table (2x2)</label>    
 	<graphicData>
 		<texPath>sd_roundtable/sd_roundtable</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -57,7 +57,7 @@
   
  <ThingDef ParentName="TableBase_SDRoundTable">
 	<defName>sd_roundtable_big</defName>
-    <label>table big(round)</label>    
+    <label>table (3x3)</label>    
 	<graphicData>
 		<texPath>sd_roundtable/sd_roundtable_big</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
